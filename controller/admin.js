@@ -294,8 +294,8 @@ module.exports.updateUser = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "digitamon@digitamon.com",
-                        "Name": "digitamon"
+                        "Email": "metrobss@metrobss.com",
+                        "Name": "metrobss"
                      },
 
 
@@ -451,8 +451,8 @@ module.exports.updateHistory = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "digitamon@digitamon.com",
-                        "Name": "digitamon"
+                        "Email": "metrobss@metrobss.com",
+                        "Name": "metrobss"
                      },
                      "To": [
                         {
@@ -516,8 +516,8 @@ module.exports.sendEmail = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "digitamon@digitamon.com",
-                     "Name": "digitamon"
+                     "Email": "metrobss@metrobss.com",
+                     "Name": "metrobss"
 
                   },
                   "To": [
@@ -621,8 +621,8 @@ module.exports.createAccounts = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "digitamon@digitamon.com",
-                     "Name": "digitamon"
+                     "Email": "metrobss@metrobss.com",
+                     "Name": "metrobss"
                   },
                   "To": [
                      {
@@ -813,8 +813,8 @@ module.exports.credit = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "digitamon@digitamon.com",
-                     "Name": "digitamon"
+                     "Email": "metrobss@metrobss.com",
+                     "Name": "metrobss"
                   },
                   "To": [
                      {
@@ -940,8 +940,8 @@ module.exports.debit = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "digitamon@digitamon.com",
-                     "Name": "digitamon"
+                     "Email": "metrobss@metrobss.com",
+                     "Name": "metrobss"
                   },
                   "To": [
                      {
@@ -1069,8 +1069,8 @@ module.exports.updateLoan = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "digitamon@digitamon.com",
-                        "Name": "digitamon"
+                        "Email": "metrobss@metrobss.com",
+                        "Name": "metrobss"
                      },
                      "To": [
                         {
@@ -1189,8 +1189,8 @@ module.exports.updateCard = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "digitamon@digitamon.com",
-                        "Name": "digitamon"
+                        "Email": "metrobss@metrobss.com",
+                        "Name": "metrobss"
                      },
                      "To": [
                         {
@@ -1278,8 +1278,8 @@ module.exports.updateCard = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "digitamon@digitamon.com",
-                     "Name": "digitamon"
+                     "Email": "metrobss@metrobss.com",
+                     "Name": "metrobss"
                   },
                   "To": [
                      {
